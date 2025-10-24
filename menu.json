@@ -1,0 +1,40 @@
+{
+  "coffee": [
+    {"name": "Espresso", "description": "Direct trade beans from Nicaragua", "price": "€2.50"},
+    {"name": "Americano", "description": "Smooth and balanced", "price": "€3.00"},
+    {"name": "Cappuccino", "description": "Perfectly frothed milk", "price": "€3.50"},
+    {"name": "Flat White", "description": "Velvety microfoam", "price": "€3.80"},
+    {"name": "Latte", "description": "Creamy and comforting", "price": "€3.80"}
+  ],
+  "breakfast": [
+    {"name": "Avocado Egg Bowl", "description": "Fresh avocado with perfectly cooked eggs (vegan option available)", "price": "€8.50", "vegan": true},
+    {"name": "Avocado Toast", "description": "Toasted sourdough with fresh avocado", "price": "€7.50", "vegetarian": true},
+    {"name": "French Toast Sandwich", "description": "Sweet and savory perfection", "price": "€8.00"},
+    {"name": "Croissant", "description": "Buttery and flaky, baked fresh", "price": "€3.00"},
+    {"name": "Vegan Granola Bowl", "description": "Homemade granola with fresh fruits", "price": "€7.00", "vegan": true}
+  ],
+  "lunch": [
+    {"name": "Vegan Sandwich", "description": "Fresh vegetables and house-made spreads", "price": "€7.50", "vegan": true},
+    {"name": "Wrap", "description": "Filled with seasonal ingredients", "price": "€8.00"},
+    {"name": "Gluten-Free Focaccia", "description": "House-made with herbs", "price": "€6.50", "glutenFree": true, "vegetarian": true},
+    {"name": "Mixed Hummus Plate", "description": "Variety of hummus with fresh bread", "price": "€9.00", "vegan": true}
+  ],
+  "sweets": [
+    {"name": "Brownie", "description": "Rich chocolate brownie", "price": "€4.00", "vegetarian": true},
+    {"name": "Gluten-Free Carrot Cake", "description": "Moist and flavorful", "price": "€4.50", "glutenFree": true},
+    {"name": "Sugar & Gluten-Free Cookies", "description": "Healthy and delicious", "price": "€3.50", "glutenFree": true},
+    {"name": "Vegan Cake", "description": "Daily changing selection", "price": "€4.00", "vegan": true}
+  ],
+  "drinks": [
+    {"name": "Fresh Smoothies", "description": "Fruity and refreshing", "price": "€5.50"},
+    {"name": "Hot Chocolate", "description": "From our famous chocolate tap - vegan & organic", "price": "€4.00", "vegan": true},
+    {"name": "Tea Selection", "description": "Wide variety of premium teas", "price": "€3.00"}
+  ],
+  "specialties": [
+    {
+      "name": "Vegan Chocolate Tap",
+      "description": "Our signature: warm, organic, 70% chocolate flowing from a tap! Perfect for dipping waffles, croissants, or fruit.",
+      "highlight": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "google_rating": "4.6/5",
+  "total_reviews": "348+",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Beautiful location on the Planufer, super friendly staff and very tasty food and drinks. The vegan organic chocolate tap is unique!",
+      "date": "2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 5,
+      "text": "The best coffee I have had so far in Berlin. Direct trade beans from Nicaragua really make a difference. The French toast sandwich is always a great choice.",
+      "date": "2024",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "Local Berliner",
+      "rating": 5,
+      "text": "Cozy, charming café with excellent vegan options. Perfect spot for working on your laptop. The atmosphere by the canal is unbeatable.",
+      "date": "2024",
+      "platform": "Yelp"
+    }
+  ]
+}
